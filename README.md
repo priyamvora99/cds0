@@ -1,5 +1,5 @@
 # Sentiment Analysis
-> Polytical Analysis using Tweeter API
+> Polytical Analysis using Twitter API
 
 ## About
 
@@ -28,6 +28,7 @@ This project is developed as a solution for a problem statement in Codeshastra 5
 - **Backend**
     - Python
     - NLTK (Natural Language Tool Kit)
+    -Tweepy
 
 - **Frontend**
     - Tkinter
